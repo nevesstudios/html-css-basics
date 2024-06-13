@@ -1,0 +1,29 @@
+body {
+    background-color: #5A5858;
+    color: #E3E3E3;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+iframe {
+    width: 720px;
+    height: 480px;
+}
+
+img {
+    width: 720px;
+}
+
+#img-dir {
+    width: 300px;
+}
+
+.nav {
+    background-color: #969024;
+    color: #F1E60F;
+}
+
+.section {
+    background-color: #8A8685;
+    color: #6F1F00 ;
+}
